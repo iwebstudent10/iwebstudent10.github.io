@@ -11,13 +11,12 @@ body{
 
 h1 {
     font-size: 48px;
-    text-transform: uppercase;
     margin: 0;
     color: red;
 }
 
 p {
-    color: yellow;
+    color: white;
 }
 
 ul {
