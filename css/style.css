@@ -1,3 +1,32 @@
 body{
-    background: red;
+    background: black;
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    display: grid;
+    align-content: center;
+    text-align: center;
+    min-height: 100vh;
+}
+
+h1 {
+    font-size: 48px;
+    text-transform: uppercase;
+    margin: 0;
+    color: red;
+}
+
+p {
+    color: yellow;
+}
+
+ul {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+li {
+    text-align: left;
+    color: yellow
 }
