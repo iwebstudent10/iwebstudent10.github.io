@@ -55,7 +55,7 @@ nav a {
 
 /* FOOTER */
 footer {
-    border-top: 1px solid 53);
+    border-top: 1px solid #efefef;
     max-width: 1000px;
     margin: 0 auto;
 }
@@ -84,7 +84,8 @@ section {
     background: darkred;
     min-height: 50vh;
     color: white;
-}
+ }
+
 
 
 .hero h2 {
@@ -115,10 +116,11 @@ section {
 
 
 /* SUB PAGES */
-.page-sub .hero {
+.pages-sub .hero{
     background: #888;
-    min-height: 30vh
+    min-height: 30vh;
 }
+
 
 /* BLOG ARCHIES */
 
