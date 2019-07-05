@@ -143,3 +143,11 @@ section {
     opacity: .5;
     font-size: .8em;
 }
+
+/* GAMES */
+
+ .games {
+     max-width: 1000px;
+     margin: 0 auto;
+     text-align: center;
+ }
