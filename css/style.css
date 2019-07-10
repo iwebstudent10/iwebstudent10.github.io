@@ -147,7 +147,18 @@ section {
 /* GAMES */
 
  .games {
-     max-width: 1000px;
+     max-width: 2000px;
      margin: 0 auto;
      text-align: center;
  }
+
+ /* CUSTOM UI DESIGN */
+ .ui-design {
+     text-align: center;
+ }
+ .ui-design img {
+     max-width:300px;
+    height: 250px
+ }
+
+ 
