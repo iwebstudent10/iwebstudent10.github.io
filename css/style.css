@@ -23,7 +23,7 @@ header {
 }
 
 header a {
-    color: #1d81bf;
+    color: #0d527e;
 }
 
 header {
@@ -101,8 +101,9 @@ section {
 
 
 .page-home .hero {
-    background-image: url('https://picsum.photos/id/1015/1080/1000');
+    background-image: url('../images/aerial-view-cropped.jpg');
    background-size: cover;
+   background-position: center 60%;
 }
 
 .page-sub .hero{
